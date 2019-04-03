@@ -87,3 +87,5 @@ class Solution:
 ### Pythonic
 
 `"".join(map(str, digits))` 列表 --> 字符串 —— 66
+
+> map 返回的是生成器
